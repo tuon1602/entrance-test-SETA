@@ -1,0 +1,10 @@
+{
+    "Index": {
+      "title": "Hello world!",
+      "Select-Language":"Choose your language",
+      "demo-button" : "This button is from Shadcn/Ui",
+      "en":"English",
+      "vn":"Vietnamese",
+      "about-page":"About page"
+    }
+  }
